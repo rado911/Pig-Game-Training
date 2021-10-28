@@ -161,3 +161,9 @@ main {
   font-weight: 700;
   color: #c7365f;
 }
+
+/*CREATING HIDDEN CLASS TO HIDE ELEMENTS*/
+
+.hidden {
+  display: none;
+}
